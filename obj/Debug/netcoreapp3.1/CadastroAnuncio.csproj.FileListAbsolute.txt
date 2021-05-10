@@ -1,0 +1,13 @@
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\bin\Debug\netcoreapp3.1\CadastroAnuncio.exe
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\bin\Debug\netcoreapp3.1\CadastroAnuncio.deps.json
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\bin\Debug\netcoreapp3.1\CadastroAnuncio.runtimeconfig.json
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\bin\Debug\netcoreapp3.1\CadastroAnuncio.runtimeconfig.dev.json
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\bin\Debug\netcoreapp3.1\CadastroAnuncio.dll
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\bin\Debug\netcoreapp3.1\CadastroAnuncio.pdb
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\obj\Debug\netcoreapp3.1\CadastroAnuncio.csprojAssemblyReference.cache
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\obj\Debug\netcoreapp3.1\CadastroAnuncio.AssemblyInfoInputs.cache
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\obj\Debug\netcoreapp3.1\CadastroAnuncio.AssemblyInfo.cs
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\obj\Debug\netcoreapp3.1\CadastroAnuncio.csproj.CoreCompileInputs.cache
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\obj\Debug\netcoreapp3.1\CadastroAnuncio.dll
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\obj\Debug\netcoreapp3.1\CadastroAnuncio.pdb
+C:\Users\lucas.leite\Documents\C#\CadastroAnuncio\obj\Debug\netcoreapp3.1\CadastroAnuncio.genruntimeconfig.cache
